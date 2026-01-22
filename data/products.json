@@ -1,0 +1,1502 @@
+[
+  {
+    "title": "Wireless Earbuds",
+    "description": "High-quality wireless earbuds perfect for gifting.",
+    "price": 120.51,
+    "brand": "Acme",
+    "category": "Tech",
+    "retailer": "Target",
+    "url": "https://example.com/products/1",
+    "tags": [
+      "tech",
+      "wireless",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Bluetooth Speaker",
+    "description": "High-quality bluetooth speaker perfect for gifting.",
+    "price": 55.41,
+    "brand": "Nova",
+    "category": "Tech",
+    "retailer": "Amazon",
+    "url": "https://example.com/products/2",
+    "tags": [
+      "tech",
+      "bluetooth",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Smart Plug",
+    "description": "High-quality smart plug perfect for gifting.",
+    "price": 126.66,
+    "brand": "Orbit",
+    "category": "Tech",
+    "retailer": "Amazon",
+    "url": "https://example.com/products/3",
+    "tags": [
+      "tech",
+      "smart",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "USB-C Hub",
+    "description": "High-quality usb-c hub perfect for gifting.",
+    "price": 112.43,
+    "brand": "Acme",
+    "category": "Tech",
+    "retailer": "Amazon",
+    "url": "https://example.com/products/4",
+    "tags": [
+      "tech",
+      "usb-c",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Mechanical Keyboard",
+    "description": "High-quality mechanical keyboard perfect for gifting.",
+    "price": 30.46,
+    "brand": "Nova",
+    "category": "Tech",
+    "retailer": "REI",
+    "url": "https://example.com/products/5",
+    "tags": [
+      "tech",
+      "mechanical",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Aroma Diffuser",
+    "description": "High-quality aroma diffuser perfect for gifting.",
+    "price": 114.33,
+    "brand": "Orbit",
+    "category": "Home",
+    "retailer": "Etsy",
+    "url": "https://example.com/products/6",
+    "tags": [
+      "home",
+      "aroma",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Throw Blanket",
+    "description": "High-quality throw blanket perfect for gifting.",
+    "price": 133.14,
+    "brand": "Zenith",
+    "category": "Home",
+    "retailer": "REI",
+    "url": "https://example.com/products/7",
+    "tags": [
+      "home",
+      "throw",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "LED Desk Lamp",
+    "description": "High-quality led desk lamp perfect for gifting.",
+    "price": 84.22,
+    "brand": "Peak",
+    "category": "Home",
+    "retailer": "REI",
+    "url": "https://example.com/products/8",
+    "tags": [
+      "home",
+      "led",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Coffee Grinder",
+    "description": "High-quality coffee grinder perfect for gifting.",
+    "price": 60.9,
+    "brand": "Acme",
+    "category": "Home",
+    "retailer": "Etsy",
+    "url": "https://example.com/products/9",
+    "tags": [
+      "home",
+      "coffee",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Mug Warmer",
+    "description": "High-quality mug warmer perfect for gifting.",
+    "price": 130.19,
+    "brand": "Luma",
+    "category": "Home",
+    "retailer": "Target",
+    "url": "https://example.com/products/10",
+    "tags": [
+      "home",
+      "mug",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Yoga Mat",
+    "description": "High-quality yoga mat perfect for gifting.",
+    "price": 40.65,
+    "brand": "Luma",
+    "category": "Wellness",
+    "retailer": "Amazon",
+    "url": "https://example.com/products/11",
+    "tags": [
+      "wellness",
+      "yoga",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Foam Roller",
+    "description": "High-quality foam roller perfect for gifting.",
+    "price": 30.3,
+    "brand": "Acme",
+    "category": "Wellness",
+    "retailer": "Target",
+    "url": "https://example.com/products/12",
+    "tags": [
+      "wellness",
+      "foam",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Massage Gun",
+    "description": "High-quality massage gun perfect for gifting.",
+    "price": 154.84,
+    "brand": "Orbit",
+    "category": "Wellness",
+    "retailer": "Target",
+    "url": "https://example.com/products/13",
+    "tags": [
+      "wellness",
+      "massage",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Essential Oils Set",
+    "description": "High-quality essential oils set perfect for gifting.",
+    "price": 148.18,
+    "brand": "Zenith",
+    "category": "Wellness",
+    "retailer": "UncommonGoods",
+    "url": "https://example.com/products/14",
+    "tags": [
+      "wellness",
+      "essential",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Sleep Mask",
+    "description": "High-quality sleep mask perfect for gifting.",
+    "price": 103.48,
+    "brand": "Peak",
+    "category": "Wellness",
+    "retailer": "Amazon",
+    "url": "https://example.com/products/15",
+    "tags": [
+      "wellness",
+      "sleep",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Chef Knife",
+    "description": "High-quality chef knife perfect for gifting.",
+    "price": 106.09,
+    "brand": "Zenith",
+    "category": "Kitchen",
+    "retailer": "REI",
+    "url": "https://example.com/products/16",
+    "tags": [
+      "kitchen",
+      "chef",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Cast Iron Skillet",
+    "description": "High-quality cast iron skillet perfect for gifting.",
+    "price": 161.1,
+    "brand": "Luma",
+    "category": "Kitchen",
+    "retailer": "REI",
+    "url": "https://example.com/products/17",
+    "tags": [
+      "kitchen",
+      "cast",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Espresso Maker",
+    "description": "High-quality espresso maker perfect for gifting.",
+    "price": 46.73,
+    "brand": "Acme",
+    "category": "Kitchen",
+    "retailer": "Amazon",
+    "url": "https://example.com/products/18",
+    "tags": [
+      "kitchen",
+      "espresso",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Electric Kettle",
+    "description": "High-quality electric kettle perfect for gifting.",
+    "price": 124.11,
+    "brand": "Luma",
+    "category": "Kitchen",
+    "retailer": "Amazon",
+    "url": "https://example.com/products/19",
+    "tags": [
+      "kitchen",
+      "electric",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Food Scale",
+    "description": "High-quality food scale perfect for gifting.",
+    "price": 156.13,
+    "brand": "Acme",
+    "category": "Kitchen",
+    "retailer": "UncommonGoods",
+    "url": "https://example.com/products/20",
+    "tags": [
+      "kitchen",
+      "food",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Leather Wallet",
+    "description": "High-quality leather wallet perfect for gifting.",
+    "price": 60.87,
+    "brand": "Zenith",
+    "category": "Fashion",
+    "retailer": "Target",
+    "url": "https://example.com/products/21",
+    "tags": [
+      "fashion",
+      "leather",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Silk Scarf",
+    "description": "High-quality silk scarf perfect for gifting.",
+    "price": 41.84,
+    "brand": "Luma",
+    "category": "Fashion",
+    "retailer": "Etsy",
+    "url": "https://example.com/products/22",
+    "tags": [
+      "fashion",
+      "silk",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Sunglasses",
+    "description": "High-quality sunglasses perfect for gifting.",
+    "price": 125.58,
+    "brand": "Zenith",
+    "category": "Fashion",
+    "retailer": "Amazon",
+    "url": "https://example.com/products/23",
+    "tags": [
+      "fashion",
+      "sunglasses",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Beanie",
+    "description": "High-quality beanie perfect for gifting.",
+    "price": 115.51,
+    "brand": "Nova",
+    "category": "Fashion",
+    "retailer": "REI",
+    "url": "https://example.com/products/24",
+    "tags": [
+      "fashion",
+      "beanie",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Belt",
+    "description": "High-quality belt perfect for gifting.",
+    "price": 135.31,
+    "brand": "Nova",
+    "category": "Fashion",
+    "retailer": "UncommonGoods",
+    "url": "https://example.com/products/25",
+    "tags": [
+      "fashion",
+      "belt",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Insulated Water Bottle",
+    "description": "High-quality insulated water bottle perfect for gifting.",
+    "price": 77.61,
+    "brand": "Zenith",
+    "category": "Outdoors",
+    "retailer": "REI",
+    "url": "https://example.com/products/26",
+    "tags": [
+      "outdoors",
+      "insulated",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Camping Lantern",
+    "description": "High-quality camping lantern perfect for gifting.",
+    "price": 51.24,
+    "brand": "Luma",
+    "category": "Outdoors",
+    "retailer": "Amazon",
+    "url": "https://example.com/products/27",
+    "tags": [
+      "outdoors",
+      "camping",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Hammock",
+    "description": "High-quality hammock perfect for gifting.",
+    "price": 52.79,
+    "brand": "Acme",
+    "category": "Outdoors",
+    "retailer": "Target",
+    "url": "https://example.com/products/28",
+    "tags": [
+      "outdoors",
+      "hammock",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Daypack",
+    "description": "High-quality daypack perfect for gifting.",
+    "price": 81.19,
+    "brand": "Acme",
+    "category": "Outdoors",
+    "retailer": "Etsy",
+    "url": "https://example.com/products/29",
+    "tags": [
+      "outdoors",
+      "daypack",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Travel Mug",
+    "description": "High-quality travel mug perfect for gifting.",
+    "price": 165.67,
+    "brand": "Orbit",
+    "category": "Outdoors",
+    "retailer": "Target",
+    "url": "https://example.com/products/30",
+    "tags": [
+      "outdoors",
+      "travel",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Throw Blanket Plus",
+    "description": "High-quality throw blanket perfect for gifting.",
+    "price": 161.61,
+    "brand": "Zenith",
+    "category": "Home",
+    "retailer": "REI",
+    "url": "https://example.com/products/31",
+    "tags": [
+      "home",
+      "throw",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Massage Gun Plus",
+    "description": "High-quality massage gun perfect for gifting.",
+    "price": 196.83,
+    "brand": "Orbit",
+    "category": "Wellness",
+    "retailer": "Target",
+    "url": "https://example.com/products/32",
+    "tags": [
+      "wellness",
+      "massage",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Travel Mug Plus",
+    "description": "High-quality travel mug perfect for gifting.",
+    "price": 179.87,
+    "brand": "Orbit",
+    "category": "Outdoors",
+    "retailer": "Target",
+    "url": "https://example.com/products/33",
+    "tags": [
+      "outdoors",
+      "travel",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Coffee Grinder Plus",
+    "description": "High-quality coffee grinder perfect for gifting.",
+    "price": 67.7,
+    "brand": "Acme",
+    "category": "Home",
+    "retailer": "Etsy",
+    "url": "https://example.com/products/34",
+    "tags": [
+      "home",
+      "coffee",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Cast Iron Skillet Plus",
+    "description": "High-quality cast iron skillet perfect for gifting.",
+    "price": 199.24,
+    "brand": "Luma",
+    "category": "Kitchen",
+    "retailer": "REI",
+    "url": "https://example.com/products/35",
+    "tags": [
+      "kitchen",
+      "cast",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Hammock Plus",
+    "description": "High-quality hammock perfect for gifting.",
+    "price": 67.28,
+    "brand": "Acme",
+    "category": "Outdoors",
+    "retailer": "Target",
+    "url": "https://example.com/products/36",
+    "tags": [
+      "outdoors",
+      "hammock",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Insulated Water Bottle Plus",
+    "description": "High-quality insulated water bottle perfect for gifting.",
+    "price": 88.51,
+    "brand": "Zenith",
+    "category": "Outdoors",
+    "retailer": "REI",
+    "url": "https://example.com/products/37",
+    "tags": [
+      "outdoors",
+      "insulated",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Coffee Grinder Plus",
+    "description": "High-quality coffee grinder perfect for gifting.",
+    "price": 71.7,
+    "brand": "Acme",
+    "category": "Home",
+    "retailer": "Etsy",
+    "url": "https://example.com/products/38",
+    "tags": [
+      "home",
+      "coffee",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Aroma Diffuser Plus",
+    "description": "High-quality aroma diffuser perfect for gifting.",
+    "price": 141.65,
+    "brand": "Orbit",
+    "category": "Home",
+    "retailer": "Etsy",
+    "url": "https://example.com/products/39",
+    "tags": [
+      "home",
+      "aroma",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "LED Desk Lamp Plus",
+    "description": "High-quality led desk lamp perfect for gifting.",
+    "price": 91.65,
+    "brand": "Peak",
+    "category": "Home",
+    "retailer": "REI",
+    "url": "https://example.com/products/40",
+    "tags": [
+      "home",
+      "led",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Yoga Mat Plus",
+    "description": "High-quality yoga mat perfect for gifting.",
+    "price": 50.73,
+    "brand": "Luma",
+    "category": "Wellness",
+    "retailer": "Amazon",
+    "url": "https://example.com/products/41",
+    "tags": [
+      "wellness",
+      "yoga",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Hammock Plus",
+    "description": "High-quality hammock perfect for gifting.",
+    "price": 63.3,
+    "brand": "Acme",
+    "category": "Outdoors",
+    "retailer": "Target",
+    "url": "https://example.com/products/42",
+    "tags": [
+      "outdoors",
+      "hammock",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Belt Plus",
+    "description": "High-quality belt perfect for gifting.",
+    "price": 154.98,
+    "brand": "Nova",
+    "category": "Fashion",
+    "retailer": "UncommonGoods",
+    "url": "https://example.com/products/43",
+    "tags": [
+      "fashion",
+      "belt",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Travel Mug Plus",
+    "description": "High-quality travel mug perfect for gifting.",
+    "price": 195.87,
+    "brand": "Orbit",
+    "category": "Outdoors",
+    "retailer": "Target",
+    "url": "https://example.com/products/44",
+    "tags": [
+      "outdoors",
+      "travel",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Hammock Plus Plus",
+    "description": "High-quality hammock perfect for gifting.",
+    "price": 85.12,
+    "brand": "Acme",
+    "category": "Outdoors",
+    "retailer": "Target",
+    "url": "https://example.com/products/45",
+    "tags": [
+      "outdoors",
+      "hammock",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Wireless Earbuds Plus",
+    "description": "High-quality wireless earbuds perfect for gifting.",
+    "price": 147.03,
+    "brand": "Acme",
+    "category": "Tech",
+    "retailer": "Target",
+    "url": "https://example.com/products/46",
+    "tags": [
+      "tech",
+      "wireless",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "LED Desk Lamp Plus",
+    "description": "High-quality led desk lamp perfect for gifting.",
+    "price": 102.78,
+    "brand": "Peak",
+    "category": "Home",
+    "retailer": "REI",
+    "url": "https://example.com/products/47",
+    "tags": [
+      "home",
+      "led",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Cast Iron Skillet Plus Plus",
+    "description": "High-quality cast iron skillet perfect for gifting.",
+    "price": 246.6,
+    "brand": "Luma",
+    "category": "Kitchen",
+    "retailer": "REI",
+    "url": "https://example.com/products/48",
+    "tags": [
+      "kitchen",
+      "cast",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Hammock Plus Plus",
+    "description": "High-quality hammock perfect for gifting.",
+    "price": 71.85,
+    "brand": "Acme",
+    "category": "Outdoors",
+    "retailer": "Target",
+    "url": "https://example.com/products/49",
+    "tags": [
+      "outdoors",
+      "hammock",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Electric Kettle Plus",
+    "description": "High-quality electric kettle perfect for gifting.",
+    "price": 143.81,
+    "brand": "Luma",
+    "category": "Kitchen",
+    "retailer": "Amazon",
+    "url": "https://example.com/products/50",
+    "tags": [
+      "kitchen",
+      "electric",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Travel Mug Plus",
+    "description": "High-quality travel mug perfect for gifting.",
+    "price": 174.09,
+    "brand": "Orbit",
+    "category": "Outdoors",
+    "retailer": "Target",
+    "url": "https://example.com/products/51",
+    "tags": [
+      "outdoors",
+      "travel",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "LED Desk Lamp Plus Plus",
+    "description": "High-quality led desk lamp perfect for gifting.",
+    "price": 130.42,
+    "brand": "Peak",
+    "category": "Home",
+    "retailer": "REI",
+    "url": "https://example.com/products/52",
+    "tags": [
+      "home",
+      "led",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Cast Iron Skillet Plus",
+    "description": "High-quality cast iron skillet perfect for gifting.",
+    "price": 208.3,
+    "brand": "Luma",
+    "category": "Kitchen",
+    "retailer": "REI",
+    "url": "https://example.com/products/53",
+    "tags": [
+      "kitchen",
+      "cast",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Hammock Plus Plus Plus",
+    "description": "High-quality hammock perfect for gifting.",
+    "price": 78.65,
+    "brand": "Acme",
+    "category": "Outdoors",
+    "retailer": "Target",
+    "url": "https://example.com/products/54",
+    "tags": [
+      "outdoors",
+      "hammock",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Throw Blanket Plus",
+    "description": "High-quality throw blanket perfect for gifting.",
+    "price": 168.77,
+    "brand": "Zenith",
+    "category": "Home",
+    "retailer": "REI",
+    "url": "https://example.com/products/55",
+    "tags": [
+      "home",
+      "throw",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Food Scale Plus",
+    "description": "High-quality food scale perfect for gifting.",
+    "price": 196.79,
+    "brand": "Acme",
+    "category": "Kitchen",
+    "retailer": "UncommonGoods",
+    "url": "https://example.com/products/56",
+    "tags": [
+      "kitchen",
+      "food",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Travel Mug Plus Plus",
+    "description": "High-quality travel mug perfect for gifting.",
+    "price": 216.25,
+    "brand": "Orbit",
+    "category": "Outdoors",
+    "retailer": "Target",
+    "url": "https://example.com/products/57",
+    "tags": [
+      "outdoors",
+      "travel",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Mug Warmer Plus",
+    "description": "High-quality mug warmer perfect for gifting.",
+    "price": 148.87,
+    "brand": "Luma",
+    "category": "Home",
+    "retailer": "Target",
+    "url": "https://example.com/products/58",
+    "tags": [
+      "home",
+      "mug",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Yoga Mat Plus",
+    "description": "High-quality yoga mat perfect for gifting.",
+    "price": 48.16,
+    "brand": "Luma",
+    "category": "Wellness",
+    "retailer": "Amazon",
+    "url": "https://example.com/products/59",
+    "tags": [
+      "wellness",
+      "yoga",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Electric Kettle Plus Plus",
+    "description": "High-quality electric kettle perfect for gifting.",
+    "price": 184.16,
+    "brand": "Luma",
+    "category": "Kitchen",
+    "retailer": "Amazon",
+    "url": "https://example.com/products/60",
+    "tags": [
+      "kitchen",
+      "electric",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Yoga Mat Plus Plus",
+    "description": "High-quality yoga mat perfect for gifting.",
+    "price": 50.57,
+    "brand": "Luma",
+    "category": "Wellness",
+    "retailer": "Amazon",
+    "url": "https://example.com/products/61",
+    "tags": [
+      "wellness",
+      "yoga",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Leather Wallet Plus",
+    "description": "High-quality leather wallet perfect for gifting.",
+    "price": 71.35,
+    "brand": "Zenith",
+    "category": "Fashion",
+    "retailer": "Target",
+    "url": "https://example.com/products/62",
+    "tags": [
+      "fashion",
+      "leather",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "LED Desk Lamp Plus",
+    "description": "High-quality led desk lamp perfect for gifting.",
+    "price": 107.99,
+    "brand": "Peak",
+    "category": "Home",
+    "retailer": "REI",
+    "url": "https://example.com/products/63",
+    "tags": [
+      "home",
+      "led",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Travel Mug Plus Plus Plus",
+    "description": "High-quality travel mug perfect for gifting.",
+    "price": 280.33,
+    "brand": "Orbit",
+    "category": "Outdoors",
+    "retailer": "Target",
+    "url": "https://example.com/products/64",
+    "tags": [
+      "outdoors",
+      "travel",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "LED Desk Lamp Plus Plus",
+    "description": "High-quality led desk lamp perfect for gifting.",
+    "price": 101.72,
+    "brand": "Peak",
+    "category": "Home",
+    "retailer": "REI",
+    "url": "https://example.com/products/65",
+    "tags": [
+      "home",
+      "led",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Throw Blanket Plus Plus",
+    "description": "High-quality throw blanket perfect for gifting.",
+    "price": 205.16,
+    "brand": "Zenith",
+    "category": "Home",
+    "retailer": "REI",
+    "url": "https://example.com/products/66",
+    "tags": [
+      "home",
+      "throw",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Yoga Mat Plus",
+    "description": "High-quality yoga mat perfect for gifting.",
+    "price": 43.55,
+    "brand": "Luma",
+    "category": "Wellness",
+    "retailer": "Amazon",
+    "url": "https://example.com/products/67",
+    "tags": [
+      "wellness",
+      "yoga",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "LED Desk Lamp Plus Plus",
+    "description": "High-quality led desk lamp perfect for gifting.",
+    "price": 135.42,
+    "brand": "Peak",
+    "category": "Home",
+    "retailer": "REI",
+    "url": "https://example.com/products/68",
+    "tags": [
+      "home",
+      "led",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Cast Iron Skillet Plus",
+    "description": "High-quality cast iron skillet perfect for gifting.",
+    "price": 174.33,
+    "brand": "Luma",
+    "category": "Kitchen",
+    "retailer": "REI",
+    "url": "https://example.com/products/69",
+    "tags": [
+      "kitchen",
+      "cast",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Yoga Mat Plus Plus Plus",
+    "description": "High-quality yoga mat perfect for gifting.",
+    "price": 65.07,
+    "brand": "Luma",
+    "category": "Wellness",
+    "retailer": "Amazon",
+    "url": "https://example.com/products/70",
+    "tags": [
+      "wellness",
+      "yoga",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Silk Scarf Plus",
+    "description": "High-quality silk scarf perfect for gifting.",
+    "price": 46.7,
+    "brand": "Luma",
+    "category": "Fashion",
+    "retailer": "Etsy",
+    "url": "https://example.com/products/71",
+    "tags": [
+      "fashion",
+      "silk",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Throw Blanket Plus Plus",
+    "description": "High-quality throw blanket perfect for gifting.",
+    "price": 217.9,
+    "brand": "Zenith",
+    "category": "Home",
+    "retailer": "REI",
+    "url": "https://example.com/products/72",
+    "tags": [
+      "home",
+      "throw",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Yoga Mat Plus Plus Plus Plus",
+    "description": "High-quality yoga mat perfect for gifting.",
+    "price": 80.61,
+    "brand": "Luma",
+    "category": "Wellness",
+    "retailer": "Amazon",
+    "url": "https://example.com/products/73",
+    "tags": [
+      "wellness",
+      "yoga",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Insulated Water Bottle Plus",
+    "description": "High-quality insulated water bottle perfect for gifting.",
+    "price": 95.32,
+    "brand": "Zenith",
+    "category": "Outdoors",
+    "retailer": "REI",
+    "url": "https://example.com/products/74",
+    "tags": [
+      "outdoors",
+      "insulated",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "LED Desk Lamp Plus Plus Plus",
+    "description": "High-quality led desk lamp perfect for gifting.",
+    "price": 169.39,
+    "brand": "Peak",
+    "category": "Home",
+    "retailer": "REI",
+    "url": "https://example.com/products/75",
+    "tags": [
+      "home",
+      "led",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Cast Iron Skillet Plus Plus Plus",
+    "description": "High-quality cast iron skillet perfect for gifting.",
+    "price": 285.94,
+    "brand": "Luma",
+    "category": "Kitchen",
+    "retailer": "REI",
+    "url": "https://example.com/products/76",
+    "tags": [
+      "kitchen",
+      "cast",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Yoga Mat Plus Plus",
+    "description": "High-quality yoga mat perfect for gifting.",
+    "price": 50.64,
+    "brand": "Luma",
+    "category": "Wellness",
+    "retailer": "Amazon",
+    "url": "https://example.com/products/77",
+    "tags": [
+      "wellness",
+      "yoga",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Massage Gun Plus Plus",
+    "description": "High-quality massage gun perfect for gifting.",
+    "price": 217.73,
+    "brand": "Orbit",
+    "category": "Wellness",
+    "retailer": "Target",
+    "url": "https://example.com/products/78",
+    "tags": [
+      "wellness",
+      "massage",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Travel Mug Plus Plus",
+    "description": "High-quality travel mug perfect for gifting.",
+    "price": 206.69,
+    "brand": "Orbit",
+    "category": "Outdoors",
+    "retailer": "Target",
+    "url": "https://example.com/products/79",
+    "tags": [
+      "outdoors",
+      "travel",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Silk Scarf Plus Plus",
+    "description": "High-quality silk scarf perfect for gifting.",
+    "price": 51.72,
+    "brand": "Luma",
+    "category": "Fashion",
+    "retailer": "Etsy",
+    "url": "https://example.com/products/80",
+    "tags": [
+      "fashion",
+      "silk",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Daypack Plus",
+    "description": "High-quality daypack perfect for gifting.",
+    "price": 85.4,
+    "brand": "Acme",
+    "category": "Outdoors",
+    "retailer": "Etsy",
+    "url": "https://example.com/products/81",
+    "tags": [
+      "outdoors",
+      "daypack",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Daypack Plus Plus",
+    "description": "High-quality daypack perfect for gifting.",
+    "price": 90.93,
+    "brand": "Acme",
+    "category": "Outdoors",
+    "retailer": "Etsy",
+    "url": "https://example.com/products/82",
+    "tags": [
+      "outdoors",
+      "daypack",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Coffee Grinder Plus",
+    "description": "High-quality coffee grinder perfect for gifting.",
+    "price": 77.73,
+    "brand": "Acme",
+    "category": "Home",
+    "retailer": "Etsy",
+    "url": "https://example.com/products/83",
+    "tags": [
+      "home",
+      "coffee",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Belt Plus Plus",
+    "description": "High-quality belt perfect for gifting.",
+    "price": 165.47,
+    "brand": "Nova",
+    "category": "Fashion",
+    "retailer": "UncommonGoods",
+    "url": "https://example.com/products/84",
+    "tags": [
+      "fashion",
+      "belt",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Throw Blanket Plus Plus",
+    "description": "High-quality throw blanket perfect for gifting.",
+    "price": 180.94,
+    "brand": "Zenith",
+    "category": "Home",
+    "retailer": "REI",
+    "url": "https://example.com/products/85",
+    "tags": [
+      "home",
+      "throw",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "LED Desk Lamp Plus Plus",
+    "description": "High-quality led desk lamp perfect for gifting.",
+    "price": 119.17,
+    "brand": "Peak",
+    "category": "Home",
+    "retailer": "REI",
+    "url": "https://example.com/products/86",
+    "tags": [
+      "home",
+      "led",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Cast Iron Skillet Plus",
+    "description": "High-quality cast iron skillet perfect for gifting.",
+    "price": 198.29,
+    "brand": "Luma",
+    "category": "Kitchen",
+    "retailer": "REI",
+    "url": "https://example.com/products/87",
+    "tags": [
+      "kitchen",
+      "cast",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Insulated Water Bottle Plus Plus",
+    "description": "High-quality insulated water bottle perfect for gifting.",
+    "price": 113.82,
+    "brand": "Zenith",
+    "category": "Outdoors",
+    "retailer": "REI",
+    "url": "https://example.com/products/88",
+    "tags": [
+      "outdoors",
+      "insulated",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Massage Gun Plus Plus",
+    "description": "High-quality massage gun perfect for gifting.",
+    "price": 245.28,
+    "brand": "Orbit",
+    "category": "Wellness",
+    "retailer": "Target",
+    "url": "https://example.com/products/89",
+    "tags": [
+      "wellness",
+      "massage",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Cast Iron Skillet Plus Plus",
+    "description": "High-quality cast iron skillet perfect for gifting.",
+    "price": 228.63,
+    "brand": "Luma",
+    "category": "Kitchen",
+    "retailer": "REI",
+    "url": "https://example.com/products/90",
+    "tags": [
+      "kitchen",
+      "cast",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Massage Gun Plus",
+    "description": "High-quality massage gun perfect for gifting.",
+    "price": 188.09,
+    "brand": "Orbit",
+    "category": "Wellness",
+    "retailer": "Target",
+    "url": "https://example.com/products/91",
+    "tags": [
+      "wellness",
+      "massage",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Wireless Earbuds Plus Plus",
+    "description": "High-quality wireless earbuds perfect for gifting.",
+    "price": 169.95,
+    "brand": "Acme",
+    "category": "Tech",
+    "retailer": "Target",
+    "url": "https://example.com/products/92",
+    "tags": [
+      "tech",
+      "wireless",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Electric Kettle Plus Plus Plus",
+    "description": "High-quality electric kettle perfect for gifting.",
+    "price": 233.14,
+    "brand": "Luma",
+    "category": "Kitchen",
+    "retailer": "Amazon",
+    "url": "https://example.com/products/93",
+    "tags": [
+      "kitchen",
+      "electric",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Throw Blanket Plus",
+    "description": "High-quality throw blanket perfect for gifting.",
+    "price": 162.21,
+    "brand": "Zenith",
+    "category": "Home",
+    "retailer": "REI",
+    "url": "https://example.com/products/94",
+    "tags": [
+      "home",
+      "throw",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Coffee Grinder Plus Plus",
+    "description": "High-quality coffee grinder perfect for gifting.",
+    "price": 83.53,
+    "brand": "Acme",
+    "category": "Home",
+    "retailer": "Etsy",
+    "url": "https://example.com/products/95",
+    "tags": [
+      "home",
+      "coffee",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "LED Desk Lamp Plus Plus Plus",
+    "description": "High-quality led desk lamp perfect for gifting.",
+    "price": 160.68,
+    "brand": "Peak",
+    "category": "Home",
+    "retailer": "REI",
+    "url": "https://example.com/products/96",
+    "tags": [
+      "home",
+      "led",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Essential Oils Set Plus",
+    "description": "High-quality essential oils set perfect for gifting.",
+    "price": 164.8,
+    "brand": "Zenith",
+    "category": "Wellness",
+    "retailer": "UncommonGoods",
+    "url": "https://example.com/products/97",
+    "tags": [
+      "wellness",
+      "essential",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Belt Plus",
+    "description": "High-quality belt perfect for gifting.",
+    "price": 160.22,
+    "brand": "Nova",
+    "category": "Fashion",
+    "retailer": "UncommonGoods",
+    "url": "https://example.com/products/98",
+    "tags": [
+      "fashion",
+      "belt",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Espresso Maker Plus",
+    "description": "High-quality espresso maker perfect for gifting.",
+    "price": 54.0,
+    "brand": "Acme",
+    "category": "Kitchen",
+    "retailer": "Amazon",
+    "url": "https://example.com/products/99",
+    "tags": [
+      "kitchen",
+      "espresso",
+      "gift",
+      "popular"
+    ]
+  },
+  {
+    "title": "Hammock Plus Plus",
+    "description": "High-quality hammock perfect for gifting.",
+    "price": 78.43,
+    "brand": "Acme",
+    "category": "Outdoors",
+    "retailer": "Target",
+    "url": "https://example.com/products/100",
+    "tags": [
+      "outdoors",
+      "hammock",
+      "gift",
+      "popular"
+    ]
+  }
+]
