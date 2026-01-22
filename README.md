@@ -48,7 +48,7 @@ Ingests products from a local JSON file (products.json) into the database. Dupli
 
 **Input:** No request body, reads from data/products.json
 
-**Output:**
+**Example Output:**
 ```
  {
     "inserted": 2,
@@ -124,5 +124,6 @@ Recommendations are generated using a weighted scoring system that considers bud
 ## Future Improvements
 - Implement ML model to learn from user inputs and events
 - Create an intuitive user interface
+
 
 
