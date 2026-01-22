@@ -123,7 +123,10 @@ Recommendations are generated using a weighted scoring system that considers bud
 
 ## Future Improvements
 - Implement ML model to learn from user inputs and events
+- Add offline evaluation
+- Move ingestion and learning into background jobs
 - Create an intuitive user interface
+
 
 
 
